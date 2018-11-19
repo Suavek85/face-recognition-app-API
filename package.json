@@ -8,9 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^1.18.5"
-  },
+  //"devDependencies": {
+    //"nodemon": "^1.18.5"
+  //},
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
